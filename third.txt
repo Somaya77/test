@@ -1,3 +1,1 @@
-third file
-
-changed to second
+these are changes to the third file

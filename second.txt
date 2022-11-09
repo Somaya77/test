@@ -1,2 +1,1 @@
-this is the second file to test git status
-changed to third
+these are changes to the second file
